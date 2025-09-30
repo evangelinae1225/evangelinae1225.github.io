@@ -13,7 +13,7 @@ p {
 }
 
 a {
-    color: #2e72a1;
+    color: #f3aac0;
 }
 
 #logo, .project-img {
@@ -35,7 +35,7 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+    background-color: #f3aac0; /* White */
     color: #555555;
 }
 
