@@ -83,3 +83,12 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.floating {
+        position: relative;
+        animation: float 3s ease-in-out infinite;}
+
+@keyframes float {
+        0% {transform: translateY(0);}
+        50% {transform: translateY(-20px);}
+        100% {transform: translateY(0);}}
